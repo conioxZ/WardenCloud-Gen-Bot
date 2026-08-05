@@ -3,7 +3,7 @@ require('dotenv').config();
 const config = {
   prefix: '!',
   embedColor: 0x5865f2,
-  footer: 'Developed by UnknownzOp',
+  footer: 'Albert Gen Power By conioxyt • Wed, Aug 6',
   activity: 'stock',
   ownerIds: ['1092773378101882951'],
   dmResults: true,
