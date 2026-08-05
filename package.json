@@ -1,0 +1,17 @@
+{
+  "name": "discord-stock-generator-bot",
+  "version": "1.0.0",
+  "description": "Production-ready private stock generator Discord bot built with Discord.js v14",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.2",
+    "dotenv": "^16.4.1",
+    "express": "^4.21.2"
+  }
+}
